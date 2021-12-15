@@ -1,0 +1,19 @@
+
+html, body {
+    height: 100%;
+    background-color: #19043b;
+}
+h1{
+    color: white;
+}
+h2,h3,h4,h5 {
+    color: black;
+}
+
+hr {
+    background-color: white;
+}
+
+p{
+    color: black;
+}
